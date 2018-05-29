@@ -1,3 +1,11 @@
+## Update May/2018
+
+Script can not download the book now[¹], so I did a version only to notify me about the book of the day on my Ubuntu Desktop.
+
+[¹]: https://github.com/draconar/grab_packt/issues/25
+
+## grab_packt
+
 Grab a book a day for free from Packt Pub, https://www.packtpub.com/packt/offers/free-learning.
 
 ## 1. Install prerequisites
